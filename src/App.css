@@ -1,0 +1,16 @@
+/* App.css */
+.site-layout-background {
+  background: #fff;
+}
+
+* {
+  font-family: monospace
+}
+
+.web-title {
+  font-size: xx-large;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
